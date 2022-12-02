@@ -22,3 +22,18 @@
 <p>&copy;Leonardo Vargas</p>
 </body>
 </html>
+#header{
+	background-color:red;
+}
+
+#nav{
+	background-color:blue;
+}
+
+#body{
+	background-color:yellow;
+}
+
+#footer{
+  background-color:green;
+}
