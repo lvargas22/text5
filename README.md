@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>how to code div and span elements</title>
+
 <link rel="stylesheet" href="formating.css"
 </head>
 <body>
